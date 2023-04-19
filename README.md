@@ -6,6 +6,6 @@
 <p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseul2)](https://solved.ac/sseul2/)
-[![2sseul's github stats](https://github-readme-stats.vercel.app/api?username=2sseul&count_private=true&custom_title=(2sseul's Github🐱)&bg_color=3,B6C1FF,FFDFEA&title_color=white&text_color=white)](https://github.com/anuraghazra/github-readme-stats)
+[![2sseul's github stats](https://github-readme-stats.vercel.app/api?username=2sseul&count_private=true&custom_title="2sseul's Github🐱"&bg_color=3,B6C1FF,FFDFEA&title_color=white&text_color=white)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
