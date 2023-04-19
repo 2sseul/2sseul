@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/TypeScript-1976D2?style=plastic-square&logo=TypeScript&logoColor=white"/>   
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-D2D2D2?style=plastic-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-969696?style=plastic-square&logo=Unity&logoColor=white"/>
 <br> 
 <img src="https://img.shields.io/badge/Spring-003300?style=plastic-square&logo=Spring&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white">
