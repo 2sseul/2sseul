@@ -13,6 +13,7 @@
   - 💻 SAMSUNG SW ACADEMY 8th (2022.07 ~ )
 </div>
 
+<br>
 
 <div align = "left" style="font-size:12px">
   <h3> Skills </h3>
@@ -41,6 +42,7 @@
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic-square&logo=Amazon S3&logoColor=black">
 <div>
   
+<br>
 
 <div align = "left" style="font-size:12px">
   <h3> Co-work Tool </h3>
