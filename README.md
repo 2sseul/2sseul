@@ -9,6 +9,7 @@
 <div align = "left" style="font-size:12px">
   <h2> Experience </h2>
   - Konkuk University, Business Administration (2017.03 ~ 2022.07)
+  
   - SAMSUNG SW ACADEMY 8th (2022.07 ~ )
 </div>
 
