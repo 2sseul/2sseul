@@ -7,7 +7,7 @@
 [![2sseul's github stats](https://github-readme-stats.vercel.app/api?username=2sseul&count_private=true&bg_color=30,FFDFEA,B6C1FF&title_color=7049A1&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sseul&bg_color=30,FFDFEA,B6C1FF&layout=compact&title_color=7049A1)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align = "left" style="font-size:15px">
-  <h1> ⌨️ My Tech Stack </h1>
+  <h2> ⌨️ My Tech Stack </h2>
 <img src="https://img.shields.io/badge/java-C71A36?style=plastic-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=plastic-square&logo=python&logoColor=white">
 <br> 
@@ -31,12 +31,10 @@
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic-square&logo=Amazon S3&logoColor=black">
 <div>
   
-
-<br>
 <br>
 
 <div align = "left" style="font-size:15px">
-  <h1> 👋 Co-work tool </h1>
+  <h2> 👋 Co-work tool </h2>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic-square&logo=Jira Software&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white">
@@ -48,5 +46,6 @@
 <br>
 </div>
 
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseul2)](https://solved.ac/sseul2/)
