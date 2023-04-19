@@ -6,8 +6,10 @@
 
 [![2sseul's github stats](https://github-readme-stats.vercel.app/api?username=2sseul&count_private=true&bg_color=30,FFDFEA,B6C1FF&title_color=7049A1&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sseul&bg_color=30,FFDFEA,B6C1FF&layout=compact&title_color=7049A1)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
 <div align = "left" style="font-size:12px">
-  <h2> Experience </h2>
+  <h3> Experience </h3>
   
   - 🎓 Konkuk University, Business Administration (2017.03 ~ 2022.07)
   - 💻 SAMSUNG SW ACADEMY 8th (2022.07 ~ )
@@ -16,7 +18,8 @@
 <br>
 
 <div align = "left" style="font-size:12px">
-  <h2> Skills </h2>
+  <h3> Skills </h3>
+  
 <img src="https://img.shields.io/badge/java-C71A36?style=plastic-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-3776AB?style=plastic-square&logo=c%23&logoColor=white">
 <br> 
@@ -44,7 +47,7 @@
 <br>
 
 <div align = "left" style="font-size:12px">
-  <h2> Co-work Tool </h2>
+  <h3> Co-work Tool </h3>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic-square&logo=Jira Software&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white">
