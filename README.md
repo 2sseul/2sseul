@@ -9,7 +9,7 @@
 <div align = "left" style="font-size:15px">
   <h2> ⌨️ My Tech Stack </h2>
 <img src="https://img.shields.io/badge/java-C71A36?style=plastic-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/c#-3776AB?style=plastic-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-3776AB?style=plastic-square&logo=python&logoColor=white">
 <br> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=plastic-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=plastic-square&logo=css3&logoColor=white">
