@@ -7,6 +7,21 @@
 
 [![2sseul's github stats](https://github-readme-stats.vercel.app/api?username=2sseul&count_private=true&bg_color=30,FFDFEA,B6C1FF&title_color=7049A1&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sseul&bg_color=30,FFDFEA,B6C1FF&layout=compact&title_color=7049A1)](https://github.com/anuraghazra/github-readme-stats)
 
+<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;">
+<!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
+  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
+  <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
+  <div key="6">
+    <a href = "https://oreuda.kr/">
+      <img
+        src=https://oreuda.kr/api/v1/plant/card?nickname=2sseul
+        alt="oreuda"
+      />
+    </a>
+  </div>
+  
+</div>
+
 <div align = "left" style="font-size:12px">
   <h3> Experience </h3>
   
