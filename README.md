@@ -27,7 +27,7 @@
   <h3> Experience </h3>
   
   - 🎓 KONKUK UNIVERSITY, Business Administration (2017.03 ~ 2022.07)
-  - 💻 SAMSUNG SW ACADEMY 8th (2022.07 ~ )
+  - 💻 SAMSUNG SW ACADEMY 8th (2022.07 ~ 2023.06)
 </div>
 
 <br>
