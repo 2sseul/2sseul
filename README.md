@@ -37,12 +37,12 @@
   
 <img src="https://img.shields.io/badge/java-C71A36?style=plastic-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-3776AB?style=plastic-square&logo=c%23&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=JSS&logoColor=white"/>
 <br> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=plastic-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=plastic-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/scss-F24E1E?style=plastic-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic-square&logo=Bootstrap&logoColor=white"/> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=JSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic-square&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-1976D2?style=plastic-square&logo=TypeScript&logoColor=white"/>   
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
