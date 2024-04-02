@@ -74,4 +74,4 @@
 <br>
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2sseul)](https://solved.ac/2sseul/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseul2)](https://solved.ac/sseul2/)
