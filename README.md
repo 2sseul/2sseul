@@ -59,6 +59,10 @@
 
 ![2sseul's GitHub stats](https://github-readme-stats.vercel.app/api?username=2sseul&show_icons=true&theme=swift)
 
+<br>
+<br>
+<a href="https://opgc.me/#/users/2sseul" target="_blank"><img src="https://api.opgc.me/githubs/users/2sseul/tag/?theme=basic" /></a>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sseul&bg_color=30,FFDFEA,B6C1FF&layout=compact&title_color=7049A1)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
