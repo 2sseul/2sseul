@@ -1,4 +1,4 @@
-<div style="margin: 0 auto">
+<div style="align=center">
 
 ### Hi I'm 2sseul 🐱
 
