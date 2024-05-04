@@ -1,3 +1,5 @@
+<div style="text-align=center">
+
 ### Hi I'm 2sseul 🐱
 
 <br>
@@ -80,4 +82,5 @@
 <div>
 <div> 
   <img src="http://mazandi.herokuapp.com/api?handle=2sseul&theme=warm"/>
+</div>
 </div>
