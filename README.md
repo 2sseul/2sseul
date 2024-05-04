@@ -25,7 +25,7 @@
   
 </div> -->
 
-<div align = "left" style="font-size:12px">
+<div align = "center" style="font-size:12px">
   <h3> Experience </h3>
   
   - 🎓 KONKUK UNIVERSITY, Business Administration (2017.03 ~ 2022.07)
@@ -34,7 +34,7 @@
 
 <br>
 
-<div align = "left" style="font-size:12px">
+<div align = "center" style="font-size:12px">
   <h3> Skills </h3>
   
 <img src="https://img.shields.io/badge/java-C71A36?style=plastic-square&logo=java&logoColor=white">
@@ -60,7 +60,7 @@
   
 <br>
 
-<div align = "left" style="font-size:12px">
+<div align = "center" style="font-size:12px">
   <h3> Co-work Tool </h3>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic-square&logo=Jira Software&logoColor=white">
@@ -79,8 +79,4 @@
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseul2)](https://solved.ac/sseul2/)
 -->
-<div>
-<div> 
   <img src="http://mazandi.herokuapp.com/api?handle=2sseul&theme=warm"/>
-</div>
-</div>
