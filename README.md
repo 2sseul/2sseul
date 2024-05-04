@@ -65,7 +65,10 @@
 <br>
 
 
-[![2sseul's github stats](https://github-readme-stats.vercel.app/api?username=2sseul&count_private=true&bg_color=30,FFDFEA,B6C1FF&title_color=7049A1&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sseul&bg_color=30,FFDFEA,B6C1FF&layout=compact&title_color=7049A1)](https://github.com/anuraghazra/github-readme-stats)
+[![2sseul's github stats](https://github-readme-stats.vercel.app/api?username=2sseul&count_private=true&bg_color=30,FFDFEA,B6C1FF&title_color=7049A1&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) 
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sseul&bg_color=30,FFDFEA,B6C1FF&layout=compact&title_color=7049A1)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!-- <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;">
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
