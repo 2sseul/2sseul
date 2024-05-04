@@ -80,6 +80,7 @@
 <div>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2sseul)](https://solved.ac/2sseul)
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=2sseul&theme=warm)
   <img src="http://mazandi.herokuapp.com/api?handle=2sseul&theme=warm"/>
 </div>
