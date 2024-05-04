@@ -15,8 +15,6 @@
 💻 SAMSUNG SW ACADEMY 8th (2022.07 ~ 2023.06)
 </div>
 
-<br>
-
 <div align = "center" style="font-size:12px">
   <h3> Skills </h3>
   
@@ -53,11 +51,9 @@
 </div>
 
 <br>
-<br>
 
   <img src="http://mazandi.herokuapp.com/api?handle=2sseul&theme=warm"/>
 
-<br>
 <br>
 
 
