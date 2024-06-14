@@ -12,7 +12,9 @@
   <h3> Experience </h3>
   
 🎓 KONKUK UNIVERSITY, Business Administration (2017.03 ~ 2022.07) <br>
-💻 SAMSUNG SW ACADEMY 8th (2022.07 ~ 2023.06)
+💻 Open API활용 자바(JAVA) 안드로이드 웹 & 앱 개발자 (2022.03 ~ 2022.07) <br>
+💻 SAMSUNG SW ACADEMY 8th (2022.07 ~ 2023.06) <br>
+💻 빅데이터융합웹개발자과정 (2024.05 ~ing) <br>
 </div>
 
 <div align = "center" style="font-size:12px">
