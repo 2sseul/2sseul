@@ -11,8 +11,10 @@
 <div align = "center" style="font-size:12px">
   <h3> Experience </h3>
   
-🎓 KONKUK UNIVERSITY, Business Administration (2017.03 ~ 2022.07) <br>
-💻 SAMSUNG 청년 SW ACADEMY(SSAFY) 8th (2022.07 ~ 2023.06) <br>
+🎓 건국대학교, 경영학전공 (2017.03 ~ 2022.07) <br>
+💻 삼성청년SW아카데미(SSAFY) 8기 (2022.07 ~ 2023.06) <br>
+🏢 기획재정부 공급망정책담당관실 (2024.07 ~ 2024.10) <br>
+🏢 산업은행 코어금융부 (2024.10 ~ ) <br>
 
 </div>
 <div align = "center" style="font-size:12px">
