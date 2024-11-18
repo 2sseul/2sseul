@@ -2,11 +2,12 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/2sseul"
-  width="1000"
+  width="600"
   height="300"
 />
 </a>
-
+  
+<br>
 
 ### Hi I'm 2sseul 🐱
 
