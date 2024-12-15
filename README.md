@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/java-C71A36?style=plastic-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=JSS&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-969696?style=plastic-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-007396?style=plastic-square&logo=MySql&logoColor=white"/>
 
 ## 💻 Experiences & Certification
-- 2024.10 ~ 2025.01 <b>Korea Development Bank Internship</b>
-- 2024.07 ~ 2024.10 <b>Ministry of Economy and Finance Internship</b>
-- 2022.07 ~ 2023.06 <b>Samsung Software Academy 8th JAVA</b>
+- KDB산업은행 코어금융부 인턴 (2024.10 ~ 2025.01)
+- 기획재정부 공급망정책담당관실 인턴 (2024.07 ~ 2024.10)
+- 삼성청년SW아카데미 8기 JAVA (2022.07 ~ 2023.06)
 - `정보처리기사` `ADsP` `SQLD`
 
 ## 🏆 Awards
