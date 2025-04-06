@@ -15,11 +15,11 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,js,ts,spring,react,unity,mysql,mongodb,figma)](https://skillicons.dev)
 
 ## 💻 Experiences & Certification
-- 제주대학교 컴퓨터공학과 (2025.03 ~ ing)
+- 제주대학교 컴퓨터공학 전공 (2025.03 ~ ing)
 - KDB산업은행 코어금융부 인턴 (2024.10 ~ 2025.01)
 - 기획재정부 공급망정책담당관실 인턴 (2024.07 ~ 2024.10)
 - 삼성청년SW아카데미 8기 JAVA (2022.07 ~ 2023.06)
-- 건국대학교 경영학전공 (2017.03 ~ 2022.08)
+- 건국대학교 경영학 전공 (2017.03 ~ 2022.08)
 - `정보처리기사` `리눅스마스터2급` `ADsP` `SQLD`
 
 ## 🏆 Awards
