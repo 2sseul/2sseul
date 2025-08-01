@@ -14,6 +14,8 @@
 
 ## 💻 Experiences & Certification
 
+- WFK ICT Volunteer in Georgia (2025.07 ~ 2025.08)
+- 코드클럽 SW 교육기부단 (2025.04 ~ 2025.06)
 - KDB산업은행 코어금융부 Internship (2024.10 ~ 2025.01)
 - 기획재정부 공급망정책담당관실 Internship (2024.07 ~ 2024.10)
 - 삼성청년SW아카데미 8기 JAVA (2022.07 ~ 2023.06)
