@@ -34,7 +34,7 @@
 
 📌 **Activities**
 > - Remote Internship | Data | 25.05 - Ing
-> - 구름톤 유니브 4기 | BE | 25.03 - Ing
+> - [구름톤 유니브 4기](https://github.com/Pingrow) | BE | 25.03 - Ing
 </br>
 
 🎓 **Education**
