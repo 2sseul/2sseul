@@ -34,12 +34,12 @@
 
 📌 **Activities**
 > - Remote Internship | Data | 25.05 - Ing
-> - [구름톤 유니브 4기](https://github.com/2sseul/2025_SEASONTHON_TEAM_55_BE) | BE | 25.03 - Ing
+> - [구름톤 유니브 4기](https://github.com/2sseul/2025_SEASONTHON_TEAM_55_BE) | BE | 25.03 - 25.09
 </br>
 
 🎓 **Education**
-> - 부스트캠프 AI Tech 8기 | 네이버커넥트재단 | 25.09.01 - Ing
 > - 컴퓨터공학전공 | 제주대학교 | 25.03 - Ing
+> - 부스트캠프 AI Tech 8기 | 네이버커넥트재단 | 25.09.01 - 26.02.11
 > - 삼성청년SW아카데미 8기 JAVA | 삼성전자주식회사 | 22.07.06 - 23.06.30
 </br>
 
@@ -51,8 +51,8 @@
 </br>
 
 🫱🏻‍🫲🏽 **Volunteering**
-> - 2025 World Friends Korea IT Volunteers | WFK | 25.07 - 25.08
-> - 2025 상반기 SW 교육기부단 | 코드클럽 | 25.04 - 25.06
+> - 2025 World Friends Korea IT Volunteers | WFK | 25.07 - 25.08 (105h)
+> - 2025 상반기 SW 교육기부단 | 코드클럽 | 25.04 - 25.06 (29h)
 </br>
 
 ✍🏻 **Tech Blog**
