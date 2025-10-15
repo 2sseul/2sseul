@@ -33,7 +33,7 @@
 </br>
 
 📌 **Activities**
-> - Remote Internship | Data | 25.05 - Ing
+> - Remote Internship | Data | 25.05.26 - Ing
 > - [구름톤 유니브 4기](https://github.com/2sseul/2025_SEASONTHON_TEAM_55_BE) | BE | 25.03 - 25.09
 </br>
 
