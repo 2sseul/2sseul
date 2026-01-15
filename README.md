@@ -53,7 +53,7 @@
 
 🫱🏻‍🫲🏽 **Volunteering**
 > - 2025 World Friends Korea IT Volunteers | WFK | 25.07 - 25.08 (105h)
-> - 2025 상반기 SW 교육기부단 | 코드클럽 | 25.04 - 25.06 (29h)
+> - 2025 상반기 SW 교육기부단 | 코드클럽 | 25.04 - 25.06 (30h)
 </br>
 
 ✍🏻 **Tech Blog**
