@@ -26,7 +26,7 @@
 - [삼성청년SW아카데미 8기 특화프로젝트](https://github.com/2sseul/Cookscape) | 우수상 | Client, FE | `23.02.20 - 23.04.07`
 
 ## Activities
-- 멋쟁이사자처럼 JNU 14기 대표 · 운영진 | BE | `26.02 - Ing`
+- 멋쟁이사자처럼 대학 JNU 14기 대표 · 운영진 | BE | `26.02 - Ing`
 - Remote Internship | Data | `25.05.26 - 25.12.02`
 - [구름톤 유니브 4기](https://github.com/2sseul/2025_SEASONTHON_TEAM_55_BE) | BE | `25.03 - 25.09`
 
