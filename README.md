@@ -15,8 +15,9 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,js,ts,spring,react,unity,mysql,mongodb,aws,docker,git,figma)](https://skillicons.dev) -->
 
 ## Work Experiences
-- KDB산업은행 코어금융부 | Internship | `24.10 - 25.01`
-- 기획재정부 공급망정책담당관실 | Internship | `24.07 - 24.10`
+- ETRI(한국전자통신연구원) 제주AX융합연구실 | 연구연수생 | `26.07 - Ing`
+- KDB산업은행 코어금융부 | 인턴 | `24.10 - 25.01`
+- 기획재정부 공급망정책담당관실 | 인턴 | `24.07 - 24.10`
 
 ## Awards
 - 2025 월드프렌즈코리아 IT봉사단 성과보고대회 | 우수상 | `25.11.28`
@@ -28,7 +29,7 @@
 ## Activities
 - 멋쟁이사자처럼 대학 JNU 14기 대표 · 운영진 | BE | `26.02 - Ing`
 - Remote Internship | Data | `25.05.26 - 25.12.02`
-- [구름톤 유니브 4기](https://github.com/2sseul/2025_SEASONTHON_TEAM_55_BE) | BE | `25.03 - 25.09`
+- [구름톤 유니브 4기](https://github.com/Pingrow) | BE | `25.03 - 25.09`
 
 ## Education
 - 컴퓨터공학전공 | 제주대학교 | `25.03 - Ing`
