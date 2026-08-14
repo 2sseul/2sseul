@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,js,ts,spring,react,unity,mysql,mongodb,aws,docker,git,figma)](https://skillicons.dev) -->
 
 ## Work Experiences
-- ETRI(한국전자통신연구원) 제주AX융합연구실 | 연구연수생 | `26.07 - Ing`
+- ETRI(한국전자통신연구원) 제주AX융합연구실 | 연구연수생 | `26.07 - 26.08`
 - KDB산업은행 코어금융부 | 인턴 | `24.10 - 25.01`
 - 기획재정부 공급망정책담당관실 | 인턴 | `24.07 - 24.10`
 
