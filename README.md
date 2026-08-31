@@ -62,8 +62,8 @@
 
 ## Tech Blog
 
-<div style="display:flex; flex-direction:row;">
-  <a href="https://dropdew.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-EB531F?style=plastic-square&logo=Tistory&logoColor=white"/>
-  </a>
+<div>
+  <a href="mailto:memo-_-a@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://dropdew.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;
+  <a href="링크드인주소" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </div>
