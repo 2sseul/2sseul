@@ -3,6 +3,10 @@
 <p>🚀 인생에서 중요한 것은 속도가 아니라, 여정 속에서 축적하는 깊이와 질이라고 생각합니다. 💫</p>
 <p>👍🏻 오늘보다 내일 한 걸음 더 나아가는 개발자, <b>김이슬</b>입니다. 👩🏻‍💻</p>
 
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres,docker,aws,git,figma)](https://skillicons.dev)
+
 ## Work Experiences
 
 | Organization    | Team      | Position | What I did                  | Period          |
