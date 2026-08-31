@@ -27,7 +27,7 @@
 | Activity | Role | Description | Period |
 | --- | --- | --- | --- |
 | [멋쟁이사자처럼 대학 JNU 14기](https://github.com/likelion-jejunu) | 대표 · BE 운영진 | 주 1회 백엔드 세션 운영 및 동아리 활동 총괄 | `26.02 - Present` |
-| Remote Internship | Data | 데이터 분석 실무 교육 및 제주 관광·폐기물 데이터 분석 프로젝트 수행 | `25.05 - 25.12` |
+| Remote Internship | Data | 데이터 분석 교육 및 제주 관광·폐기물 데이터 분석 프로젝트 수행 | `25.05 - 25.12` |
 | 구름톤 유니브 4기 | 백엔드 미르미 | 백엔드 스터디 및 해커톤 참여 - [Pingrow](https://github.com/Pingrow) 디자인 · 백엔드 개발 | `25.03 - 25.09` |
 
 ## Education
