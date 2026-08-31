@@ -21,9 +21,9 @@
 
 | Competition                | Award | Project                                                                    | Role       | Date    |
 | -------------------------- | ----- | -------------------------------------------------------------------------- | ---------- | ------- |
-| 2025 월드프렌즈코리아 IT봉사단 성과보고대회 | 우수상   | [WFK IT 교육봉사](https://github.com/2sseul/WFK_ICT_Megobrebi)                 | -          | `25.11` |
+| 2025 월드프렌즈코리아 IT봉사단 성과보고대회 | 우수상   | [WFK IT 교육봉사 활동영상 성과보고](https://github.com/2sseul/WFK_ICT_Megobrebi)                 | -          | `25.11` |
 | 2025 호남IS해커톤               | 장려상   | [MOYA](https://github.com/wang-bang-gang) - 제주 다국어 도슨트 관광 서비스              | Infra, BE  | `25.08` |
-| 2025 하계 글로벌 IT 실무캠프        | 최우수상  | [제주도 부동산 실거래가 분석 및 예측](https://github.com/2sseul/jeju_real_estate_project) | ML         | `25.07` |
+| 2025 하계 글로벌 IT 실무캠프        | 최우수상  | [제주도 부동산 실거래가 분석 및 예측 프로젝트](https://github.com/2sseul/jeju_real_estate_project) | ML         | `25.07` |
 | 제주대학교 캡스톤 디자인 경진대회         | 우수상   | [SmithSEE](https://github.com/SmithSEE) - 스미싱 문자 탐지 서비스                    | Data, AI   | `25.06` |
 | 삼성청년SW아카데미 8기 특화프로젝트       | 우수상   | [Cookscape](https://github.com/2sseul/Cookscape) - 4:1 비대칭 서바이벌 술래잡기 게임    | Client, FE | `23.04` |
 
