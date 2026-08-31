@@ -60,7 +60,7 @@
 
 **`AICE ASSOCIATE` · `빅데이터분석기사` · `리눅스마스터 2급` · `정보처리기사` · `ADsP` · `SQLD`**
 
-## Tech Blog
+## Contact
 
 <div>
   <a href="mailto:memo-_-a@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
