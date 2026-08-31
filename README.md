@@ -58,7 +58,7 @@
 
 ## Certification
 
-`AICE ASSOCIATE` · `빅데이터분석기사` · `리눅스마스터 2급` · `정보처리기사` · `ADsP` · `SQLD`
+**`AICE ASSOCIATE` · `빅데이터분석기사` · `리눅스마스터 2급` · `정보처리기사` · `ADsP` · `SQLD`**
 
 ## Tech Blog
 
