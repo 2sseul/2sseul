@@ -41,7 +41,7 @@
 
 | Program | Organization | Training | Period |
 | --- | --- | --- | --- |
-| [부스트캠프 AI Tech 8기](https://github.com/boostcampaitech8) | 네이버 커넥트재단 | AI 모델 개발 및 서비스 적용 교육, [팀 프로젝트](https://github.com/2sseul/pro-nlp-finalproject-nlp-03) · [경진대회](https://github.com/2sseul/pro-nlp-generationfornlp-nlp-03) 수행 (848h) | `25.09 - 26.02` |
+| [부스트캠프 AI Tech 8기](https://github.com/boostcampaitech8) | 네이버 커넥트재단 | AI 모델 개발 및 적용 교육, [팀 프로젝트](https://github.com/2sseul/pro-nlp-finalproject-nlp-03) · [경진대회](https://github.com/2sseul/pro-nlp-generationfornlp-nlp-03) 수행 (848h) | `25.09 - 26.02` |
 | 삼성청년SW아카데미 8기 | 삼성전자 | SW 개발 역량 교육, [웹](https://github.com/2sseul/BorA) · [모바일](https://github.com/2sseul/LoveSignal) 서비스 팀 프로젝트 수행 (1,600h) | `22.07 - 23.06` |
 
 ## Volunteering
