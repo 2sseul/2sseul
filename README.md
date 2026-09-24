@@ -1,69 +1,72 @@
-## Hey There!
+## Hey There! 👋
 
-<p>🔎 속도보다 깊이와 질을 중요하게 생각하며, 충분히 고민하고 탐색해 근거 있는 기준을 세우려 합니다.</p>
-<p>🚀 그 과정에서 배움과 경험을 차곡차곡 쌓아가는 개발자, <b>김이슬</b>입니다. 👩🏻‍💻</p>
-<p>🌱 요즘은 <b>Backend를 기반으로 AI와 데이터를 실제 서비스에 연결하는 과정</b>에 관심을 두고 공부하고 있습니다.</p>
+**배운 것을 직접 만들어보며 이해를 넓혀가는 개발자 김이슬입니다.**
+
+문제에 맞는 방법을 고민하고, 이유를 설명할 수 있는 선택을 하려 노력합니다.<br/>
+👀 요즘은 Backend를 기반으로 **AI와 데이터를 실제 서비스에 연결**하는 일에 관심을 두고 있습니다.
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:memo-_-a@naver.com)
+[![Tistory](https://img.shields.io/badge/Tistory-EB531F?style=flat-square\&logo=tistory\&logoColor=white)](https://dropdew.tistory.com/)
 
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres,docker,aws,git,figma)](https://skillicons.dev)
 
-## Work Experiences
+## Experience
 
-| Organization    | Team      | Position | What I did                  | Period          |
-| --------------- | --------- | -------- | --------------------------- | --------------- |
-| 한국전자통신연구원(ETRI) | 제주AX융합연구실 | 연구연수생    | 관광 AX 플랫폼 연계를 위한 MCP 서버 개발  | `26.07 - 26.08` |
-| 한국산업은행          | 코어금융부     | 인턴       | 국외점포 통합시스템 · BAIS 보고서 개발 지원 | `24.10 - 25.01` |
-| 기획재정부           | 공급망정책담당관실 | 인턴       | 공급망 데이터 분석 · 정책자료 작성 지원     | `24.07 - 24.10` |
-| 웅진씽크빅           | 생각토론투게더   | 투게더홈티처   | 초등학생 대상 독서 · 토론수업 진행        | `23.09 - 24.06` |
-
-## Awards
-
-| Competition                | Award | Project                                                                    | Role       | Date    |
-| -------------------------- | ----- | -------------------------------------------------------------------------- | ---------- | ------- |
-| 2025 월드프렌즈코리아 IT봉사단 성과보고대회 | 우수상   | [WFK IT 교육봉사 활동영상 성과보고](https://github.com/2sseul/WFK_ICT_Megobrebi)                 | -          | `25.11` |
-| 2025 호남IS해커톤               | 장려상   | [MOYA](https://github.com/wang-bang-gang) - 제주 다국어 도슨트 관광 서비스              | Infra, BE  | `25.08` |
-| 2025 하계 글로벌 IT 실무캠프        | 최우수상  | [제주도 부동산 실거래가 분석 및 예측 프로젝트](https://github.com/2sseul/jeju_real_estate_project) | ML         | `25.07` |
-| 제주대학교 캡스톤 디자인 경진대회         | 우수상   | [SmithSEE](https://github.com/SmithSEE) - 스미싱 문자 탐지 서비스                    | Data, AI   | `25.06` |
-| 삼성청년SW아카데미 8기 특화프로젝트       | 우수상   | [Cookscape](https://github.com/2sseul/Cookscape) - 4:1 비대칭 서바이벌 술래잡기 게임    | Client, FE | `23.04` |
+* **학부연구생** @창발지능연구실(Emergent Intelligence Lab) `26.09 - Present`
+* **연구연수생** @한국전자통신연구원(ETRI) · 제주AX융합연구실 `26.07 - 26.08`
+  * 관광 AX 플랫폼 연계를 위한 MCP 서버 개발
+* **인턴** @한국산업은행 · 코어금융부 `24.10 - 25.01`
+  * 국외점포 통합시스템 및 BAIS 보고서 개발 지원
+* **인턴** @기획재정부 · 공급망정책담당관실 `24.07 - 24.10`
+  * 공급망 데이터 분석 및 정책자료 작성 지원
 
 ## Activities
 
-| Activity | Role | Description | Period |
-| --- | --- | --- | --- |
-| [멋쟁이사자처럼 대학 JNU 14기](https://github.com/likelion-jejunu) | 대표 · BE 운영진 | 주 1회 백엔드 세션 운영 및 동아리 활동 총괄 | `26.02 - Present` |
-| Remote Internship | Data | 데이터 분석 교육 및 제주 폐기물 데이터 분석 프로젝트 수행 | `25.05 - 25.12` |
-| 구름톤 유니브 4기 | 백엔드 미르미 | 백엔드 스터디 및 해커톤 참여 - [PinGrow](https://github.com/Pingrow) 디자인 · 백엔드 개발 | `25.03 - 25.09` |
+* **대표 · BE 운영진** @[멋쟁이사자처럼 대학 JNU 14기](https://github.com/likelion-jejunu) `26.02 – Present`
+  * Java Spring boot 기반 백엔드 세션 8회 기획·운영 및 동아리 활동 총괄
+* **AI 담당** @창업동아리 [아드레달린](https://github.com/picasso-adredaline) `26.03 - Present`
+  * AI 모델과 오일러 경로 알고리즘을 활용한 이미지의 GPS 아트용 벡터화 기능 개발
+* **백엔드 미르미** @구름톤 유니브 4기 `25.03 – 25.09`
+  * 백엔드 스터디 및 해커톤 참여 · [PinGrow](https://github.com/Pingrow) 디자인·백엔드 개발
+
+## Awards
+
+* **우수상 |** 2025 월드프렌즈코리아 IT봉사단 성과보고대회 `25.11.28`
+  * [WFK IT 교육봉사 활동영상 성과보고](https://github.com/2sseul/WFK_ICT_Megobrebi)
+* **장려상 |** 2025 호남IS해커톤 `25.08.22`
+  * [MOYA](https://github.com/wang-bang-gang)(Infra, BE) - 제주 다국어 도슨트 관광 서비스
+* **최우수상 |** 2025 하계 글로벌 IT 실무캠프 `25.07.12`
+  * [제주도 부동산 실거래가 분석 및 예측 프로젝트](https://github.com/2sseul/jeju_real_estate_project)(ML)
+* **우수상 |** 제주대학교 캡스톤 디자인 경진대회 `25.06.05`
+  * [SmithSEE](https://github.com/SmithSEE)(Data, AI) - 스미싱 문자 탐지 서비스
+* **우수상 |** 삼성청년SW아카데미 8기 특화프로젝트 `23.04.07`
+  * [Cookscape](https://github.com/2sseul/Cookscape)(Client, FE) - 4:1 비대칭 서바이벌 술래잡기 게임
 
 ## Education
 
-| Major | University | GPA | Achievement | Period |
-| --- | --- | --- | --- | --- |
-| 컴퓨터공학과 | JNU | **3.97/4.3 (4.27 / 4.5)** | 성적장학(전액) 2회 | `25.03 - Present` |
-| 경영학전공 | KU | **4.00 / 4.5** | 과대표 · 학회 부회장 · 성적장학 2회 | `17.03 - 22.08` |
+* **컴퓨터공학과** @JNU `25.03 - Present`
+  * GPA **3.97 / 4.3 (4.27 / 4.5)**
+* **경영학전공** @KU `17.03 - 22.08`
+  * GPA **4.00 / 4.5**
 
 ## Training
 
-| Program | Organization | Training | Period |
-| --- | --- | --- | --- |
-| [부스트캠프 AI Tech 8기](https://github.com/boostcampaitech8) | 네이버 커넥트재단 | AI 모델 개발 및 적용 교육, [팀 프로젝트](https://github.com/2sseul/pro-nlp-finalproject-nlp-03) · [경진대회](https://github.com/2sseul/pro-nlp-generationfornlp-nlp-03) 수행 (848h) | `25.09 - 26.02` |
-| 삼성청년SW아카데미 8기 | 삼성전자 | SW 개발 역량 교육, [웹](https://github.com/2sseul/BorA) · [모바일](https://github.com/2sseul/LoveSignal) 서비스 팀 프로젝트 수행 (1,600h) | `22.07 - 23.06` |
+* **[부스트캠프 AI Tech 8기](https://github.com/boostcampaitech8)** @네이버 커넥트재단 `25.09 - 26.02`
+    * AI 이론 학습 및 모델 구현 실습, [경진대회](https://github.com/2sseul/pro-nlp-generationfornlp-nlp-03) 및 [네이버클라우드 기업연계 프로젝트](https://github.com/2sseul/pro-nlp-finalproject-nlp-03) 수행 (848h)
+* **삼성청년SW아카데미 8기** @삼성전자주식회사 `22.07 - 23.06`
+  * SW 개발 역량 교육, [웹](https://github.com/2sseul/BorA)·[모바일](https://github.com/2sseul/LoveSignal)·[메타버스](https://github.com/2sseul/Cookscape) 팀 프로젝트 수행 (1,600h)
 
 ## Volunteering
 
-| Activity | Organization | Description | Period |
-| --- | --- | --- | --- |
-| 월드프렌즈코리아(WFK) IT봉사단 | 한국지능정보사회진흥원(NIA) | 조지아 현지 학생 대상 IT 교육봉사 (105h) | `25.07 - 25.08` |
-| 코드클럽 찾아가는 SW교육기부단 | (사)코드클럽한국위원회 | 초등학생 대상 SW 교육봉사 (30h) | `25.04 - 25.06` |
+* **월드프렌즈코리아(WFK) IT봉사단** @한국지능정보사회진흥원(NIA) `25.07 - 25.08`
+  * 조지아 현지 학생 대상 IT 교육봉사 · AI 교육 담당 (105h)
+* **코드클럽 찾아가는 SW교육기부단** @(사)코드클럽한국위원회 `25.04 - 25.06`
+  * 초등학생 대상 SW 교육봉사 (30h)
 
-## Certification
+## Certifications
 
-**`AICE ASSOCIATE` · `빅데이터분석기사` · `리눅스마스터 2급` · `정보처리기사` · `ADsP` · `SQLD`**
-
-## Contact
-
-<div>
-  <a href="mailto:memo-_-a@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://dropdew.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;
-  <a href="링크드인주소" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</div>
+`AICE ASSOCIATE` · `빅데이터분석기사` · `정보처리기사` · `리눅스마스터 2급` · `ADsP` · `SQLD`
