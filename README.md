@@ -26,7 +26,7 @@
 
 ## Activities
 
-* **대표 · BE 운영진** @개발연합동아리 [멋쟁이사자처럼 대학 JNU 14기](https://github.com/likelion-jejunu) `26.02 – Present`
+* **대표 · 백엔드 운영진** @개발연합동아리 [멋쟁이사자처럼 대학 JNU 14기](https://github.com/likelion-jejunu) `26.02 – Present`
   * Java Spring boot 기반 백엔드 세션 8회 기획·운영 및 동아리 활동 총괄
 * **AI 담당** @창업동아리 [아드레달린](https://github.com/picasso-adredaline) `26.03 - Present`
   * AI 모델과 오일러 경로 알고리즘을 활용한 이미지의 GPS 아트용 벡터화 기능 개발
