@@ -5,6 +5,13 @@
 문제에 맞는 방법을 고민하고, 이유를 설명할 수 있는 선택을 하려 노력합니다.<br/>
 👀 요즘은 Backend를 기반으로 **AI와 데이터를 실제 서비스에 연결**하는 일에 관심을 두고 있습니다.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://fortune-commit.vercel.app/api?user=2sseul&theme=dark">
+  <img src="https://fortune-commit.vercel.app/api?user=2sseul&theme=light" alt="오늘의 운세">
+</picture>
+
+<br/>
+
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:memo-_-a@naver.com)
