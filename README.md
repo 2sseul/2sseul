@@ -7,8 +7,8 @@
 
 <a href="https://fortune-commit.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://fortune-commit.vercel.app/api?user=2sseul&theme=dark&width=700">
-    <img src="https://fortune-commit.vercel.app/api?user=2sseul&theme=light&width=700" alt="오늘의 운세">
+    <source media="(prefers-color-scheme: dark)" srcset="https://fortune-commit.vercel.app/api?user=2sseul&theme=dark&width=full">
+    <img src="https://fortune-commit.vercel.app/api?user=2sseul&theme=light&width=full" width="100%" alt="오늘의 운세">
   </picture>
 </a>
 
